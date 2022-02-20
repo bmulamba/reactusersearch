@@ -1,0 +1,18 @@
+
+body {
+    background-color: rgb(190, 212, 202);
+    font-family:'Courier New', Courier, monospace;
+}
+.app {
+    text-align: center;
+}
+
+h3 {
+    font-size: 70px;
+    color: #9613e2;
+    padding: 1rem;
+}
+
+
+
+
